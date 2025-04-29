@@ -38,8 +38,8 @@ function App() {
               <div className="grid grid-cols-3 items-center gap-x-7">
                 <div className="bg-Orange-work w-full h-full relative rounded-2xl ">
                   <img
-                    src="/public/images/icon-work.svg"
-                    alt=""
+                    src="/images/icon-work.svg"
+                    alt="work-column"
                     className="float-right pr-4 "
                   />
 
