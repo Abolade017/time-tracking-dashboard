@@ -43,7 +43,7 @@ function App() {
                     className="float-right pr-4 "
                   />
 
-                  <div className="absolute top-12 rounded-2xl bg-Navy-950 h-auto w-full">
+                  <div className="absolute top-12 rounded-2xl bg-Navy-900 h-auto w-full">
                     <div className="flex justify-between items-center px-4 pt-6">
                       <div className="text-white font-rubik capitalize ">
                         work
@@ -67,7 +67,7 @@ function App() {
                     className="float-right "
                   />
 
-                  <div className="absolute top-12 rounded-2xl bg-Navy-950 h-auto w-full">
+                  <div className="absolute top-12 rounded-2xl bg-Navy-900 h-auto w-full">
                     <div className="flex justify-between items-center px-4 pt-6">
                       <div className="text-white font-rubik capitalize">
                         play
@@ -91,7 +91,7 @@ function App() {
                     className="float-right "
                   />
 
-                  <div className="absolute top-12 rounded-2xl bg-Navy-950 h-auto w-full">
+                  <div className="absolute top-12 rounded-2xl bg-Navy-900 h-auto w-full">
                     <div className="flex justify-between items-center px-4 pt-6">
                       <div className="text-white font-rubik capitalize ">
                         study
@@ -117,7 +117,7 @@ function App() {
                     className="float-right pr-4 "
                   />
 
-                  <div className="absolute top-12 rounded-2xl bg-Navy-950 h-auto w-full">
+                  <div className="absolute top-12 rounded-2xl bg-Navy-900 h-auto w-full">
                     <div className="flex justify-between items-center px-4 pt-6">
                       <div className="text-white font-rubik capitalize ">
                         exercise
@@ -141,7 +141,7 @@ function App() {
                     className="float-right pr-4 "
                   />
 
-                  <div className="absolute top-12 rounded-2xl bg-Navy-950 h-auto w-full">
+                  <div className="absolute top-12 rounded-2xl bg-Navy-900 h-auto w-full">
                     <div className="flex justify-between items-center px-4 pt-6">
                       <div className="text-white font-rubik text-lg capitalize">
                         Social
@@ -165,7 +165,7 @@ function App() {
                     className="float-right pr-4 "
                   />
 
-                  <div className="absolute top-12 rounded-2xl bg-Navy-950 h-auto w-full">
+                  <div className="absolute top-12 rounded-2xl bg-Navy-900 h-auto w-full">
                     <div className="flex justify-between items-center px-4 pt-6">
                       <div className="text-white font-rubik text-lg capitalize">
                         Self care
